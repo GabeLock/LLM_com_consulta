@@ -1,2 +1,2 @@
 # LLM_com_consulta
-LLM que realiza consulta de textos para delimitar universo da pesquisa.
+Confecção de um LLM (Large Language Model), que realiza consulta de textos com título e conteúdo curtos, para delimitar o universo da pesquisa do modelo.
